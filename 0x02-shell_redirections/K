@@ -1,4 +1,3 @@
 #!/bin/bash
-echo "\"(Ôo)"\'> LAST
-'>L
+ls -lt>12-newest_files
 
